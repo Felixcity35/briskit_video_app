@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/felixcity/FlutterProject/briskit_video_app/build/path_provider_android/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/home/felixcity/.gradle/caches/transforms-3/d4c30033c5764cc6db0cf95b8c697e0f/transformed/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/home/felixcity/FlutterProject/briskit_video_app/build/path_provider_android/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/felixcity/.gradle/caches/transforms-3/d4c30033c5764cc6db0cf95b8c697e0f/transformed/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/felixcity/FlutterProject/briskit_video_app/build/path_provider_android/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/felixcity/.gradle/caches/transforms-3/d4c30033c5764cc6db0cf95b8c697e0f/transformed/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/felixcity/FlutterProject/briskit_video_app/build/path_provider_android/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/felixcity/.gradle/caches/transforms-3/d4c30033c5764cc6db0cf95b8c697e0f/transformed/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/felixcity/FlutterProject/briskit_video_app/build/path_provider_android/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/felixcity/.gradle/caches/transforms-3/d4c30033c5764cc6db0cf95b8c697e0f/transformed/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/felixcity/FlutterProject/briskit_video_app/build/path_provider_android/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/felixcity/.gradle/caches/transforms-3/d4c30033c5764cc6db0cf95b8c697e0f/transformed/core-1.6.0/res/layout/notification_action.xml"
+    }
+]

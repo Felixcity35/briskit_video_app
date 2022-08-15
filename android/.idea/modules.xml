@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1973205708/android.connectivity.iml" filepath="$PROJECT_DIR$/.idea/modules/1973205708/android.connectivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2103523471/android.firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-2103523471/android.firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/399724992/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/399724992/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-348289829/android.firebase_database.iml" filepath="$PROJECT_DIR$/.idea/modules/-348289829/android.firebase_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2127214489/android.fluttertoast.iml" filepath="$PROJECT_DIR$/.idea/modules/-2127214489/android.fluttertoast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1074094923/android.shared_preferences_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-1074094923/android.shared_preferences_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2036252443/android.wifi_info_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/2036252443/android.wifi_info_flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1456884568/io.flutter.plugins.pathprovider.android.path_provider_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-1456884568/io.flutter.plugins.pathprovider.android.path_provider_android.iml" />
+    </modules>
+  </component>
+</project>

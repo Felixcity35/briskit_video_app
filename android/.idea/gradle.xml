@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/Documents/flutter-sdk/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-3.0.6/android" />
+            <option value="$USER_HOME$/Documents/flutter-sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.20.1/android" />
+            <option value="$USER_HOME$/Documents/flutter-sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.7.0/android" />
+            <option value="$USER_HOME$/Documents/flutter-sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-6.0.0/android" />
+            <option value="$USER_HOME$/Documents/flutter-sdk/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-7.1.8/android" />
+            <option value="$USER_HOME$/Documents/flutter-sdk/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.9/android" />
+            <option value="$USER_HOME$/Documents/flutter-sdk/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.12/android" />
+            <option value="$USER_HOME$/Documents/flutter-sdk/flutter/.pub-cache/hosted/pub.dartlang.org/wifi_info_flutter-2.0.2/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+#Mon Aug 15 07:00:02 WAT 2022
+base.0=/home/felixcity/FlutterProject/briskit_video_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

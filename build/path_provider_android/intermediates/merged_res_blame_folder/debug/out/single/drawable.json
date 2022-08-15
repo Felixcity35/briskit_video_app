@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/felixcity/FlutterProject/briskit_video_app/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/felixcity/.gradle/caches/transforms-3/d4c30033c5764cc6db0cf95b8c697e0f/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/felixcity/FlutterProject/briskit_video_app/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/felixcity/.gradle/caches/transforms-3/d4c30033c5764cc6db0cf95b8c697e0f/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/felixcity/FlutterProject/briskit_video_app/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/felixcity/.gradle/caches/transforms-3/d4c30033c5764cc6db0cf95b8c697e0f/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/felixcity/FlutterProject/briskit_video_app/build/path_provider_android/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/felixcity/.gradle/caches/transforms-3/d4c30033c5764cc6db0cf95b8c697e0f/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    }
+]
